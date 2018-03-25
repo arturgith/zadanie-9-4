@@ -19,4 +19,4 @@ function drawTree(height) {
 			
 }
 
-drawTree(10);
+drawTree(prompt("podaj wysokość choinki: "));
