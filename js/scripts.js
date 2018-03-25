@@ -1,4 +1,5 @@
 // scripts.js
+// scripts.js
 function drawTree(height) {
 	for (var i = 1; i <= height; i++) {
 		var star = "";
